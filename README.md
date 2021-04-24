@@ -1,4 +1,4 @@
-<h1>Praktikum ALgoritma dan Pemrograman</h1>
+<h1>Praktikum Algoritma dan Pemrograman</h1>
 Nama : Pande Putu Devo Punda Maheswara <br />
 NIM : 2008561107 <br />
 Kelas : E <br />
