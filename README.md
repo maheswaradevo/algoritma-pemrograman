@@ -10,3 +10,11 @@ Hopefully, Git and Github will be useful for me to share projects which I am wor
 <h2> Indonesian </h2>
 Repository ini dibuat untuk memenuhi tugas dari Mata Kuliah Praktikum Algoritma Pemrograman. Selain itu, ini juga membantu saya dalam mempelajari Git dan GitHub.
 Semoga nantinya Git dan Github ini berguna saat saya ingin membagikan project yang sedang saya kerjakan kepada banyak orang di luar sana.
+
+<h2> What's In This Repo? </h2>
+<ul>
+  <li> Input and Output <li>
+  <li> Palindome of Numbers <li>
+  <li> Matrix Multipication <li>
+  <li> Palindrome of Strings <li>
+  </ul>
