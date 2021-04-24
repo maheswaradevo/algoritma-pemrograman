@@ -13,8 +13,8 @@ Semoga nantinya Git dan Github ini berguna saat saya ingin membagikan project ya
 
 <h2> What's In This Repo? </h2>
 <ul>
-  <li> Input and Output <li>
-  <li> Palindome of Numbers <li>
-  <li> Matrix Multipication <li>
-  <li> Palindrome of Strings <li>
+  <li> Input and Output </li>
+  <li> Palindome of Numbers </li>
+  <li> Matrix Multipication </li>
+  <li> Palindrome of Strings </li>
   </ul>
